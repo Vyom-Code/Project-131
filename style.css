@@ -1,0 +1,12 @@
+body{
+    background-image: radial-gradient(circle, red, green, blue);
+}
+a{
+    font-size: 25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bolder;
+    color: black;
+    background-color: white; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
